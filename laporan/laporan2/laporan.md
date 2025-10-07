@@ -4,10 +4,7 @@
 **NIM:** 2024573010028  
 **Kelas:** TI 2E
 
----Gunakan fitur "Export to PDF" atau "Print to PDF" dari editor tersebut.
-
-Simpan file PDF tersebut, biasanya di folder yang sama dengan laporan.md atau di root folder laporan Anda.
-
+---
 ## 1. Abstrak
 Laporan ini merangkum hasil implemntasi pratikum modul 2 tentang Dasar Pemograman Java.
 tujuannya adalah mendemonstrasikan pemahaman dan penguasaaan konsep fundamental java, meliputi variabel dan tipe data,
