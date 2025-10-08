@@ -6,10 +6,7 @@
 
 ---
 ## 1. Abstrak
-Laporan ini merangkum hasil implementasi pratikum modul 3, yang berfokus pada konsep pemograman java lanjutan. 
-tujuan utama laporan ini adalah untuk mendemonstarsikan penguasaan terhadap Array (satu dan dua dimensi) sebagai struktur 
-dan homogen, Method/Function untuk modularisasi kode, dan String Manipulation untuk pengolahan data teks, termasuk validasi. 
-setiap pratikum diuji coba, dan hasilnya dianalisis untuk memastikan program belajar sesuai logika yang dirancang.
+Laporan ini merangkum hasil implementasi pratikum modul 3, yang berfokus pada konsep pemograman java lanjutan. tujuan utama laporan ini adalah untuk mendemonstarsikan penguasaan terhadap Array (satu dan dua dimensi) sebagai struktur dan homogen, Method/Function untuk modularisasi kode, dan String Manipulation untuk pengolahan data teks, termasuk validasi. setiap pratikum diuji coba, dan hasilnya dianalisis untuk memastikan program belajar sesuai logika yang dirancang.
 ---
 ## 2. Praktikum
 ### Praktikum 1.1 - Array Satu Dimensi (ArraySatuDimensi.java)
@@ -180,7 +177,7 @@ Dua fungsionalitas utama diselesaikan: Validasi Nama menggunakan regex mencegah 
 generateEmail merakit alamat email secara otomatis, menunjukkan aplikasi praktis dari manipulasi string.
 ---
 
-## 3. Kesimpulan
+## 4. Kesimpulan
 
 Praktikum Modul 3 tentang Dasar Pemrograman Java Lanjutan telah berhasil dilaksanakan. Penguasaan Array memungkinkan 
 penanganan data terstruktur, sementara penerapan Method meningkatkan modularitas. Keterampilan String Manipulation dan 
